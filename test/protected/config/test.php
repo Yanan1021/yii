@@ -11,6 +11,7 @@ return CMap::mergeArray(
 			'db'=>array(
 				'connectionString'=>'DSN for test database',
 			),
+			test
 			*/
 		),
 	)
